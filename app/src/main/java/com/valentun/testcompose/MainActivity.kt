@@ -13,8 +13,8 @@ import androidx.compose.material.Text
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
 import com.valentun.testcompose.ui.theme.TestComposeTheme
-import com.valentun.testcompose.ui.theme.kit.ExpandableBlock
-import com.valentun.testcompose.ui.theme.kit.LabeledTextView
+import com.valentun.testcompose.ui.kit.ExpandableBlock
+import com.valentun.testcompose.ui.kit.LabeledTextView
 
 class MainActivity : AppCompatActivity() {
 

@@ -1,4 +1,4 @@
-package com.valentun.testcompose.ui.theme.kit
+package com.valentun.testcompose.ui.kit
 
 import androidx.compose.foundation.layout.padding
 import androidx.compose.runtime.Composable
